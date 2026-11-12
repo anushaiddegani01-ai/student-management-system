@@ -20,10 +20,9 @@ void save_data(sll *ptr)
     fclose(fp);
     printf("Records saved successfully\n");
 }
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                 
+                                                                                                                                                                                                                                                                                          
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                              
+                                                                                                                                               
+                 
