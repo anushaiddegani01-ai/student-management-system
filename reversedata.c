@@ -16,6 +16,6 @@ void reverse_data(sll **headptr)
 
     printf("Records reversed successfully\n");
 }
-~                                                                                                                                                
-~                                                                                                                                                
-~       
+                                                                                                                                                
+                                                                                                                                               
+       
