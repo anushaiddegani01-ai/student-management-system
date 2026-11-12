@@ -3,5 +3,5 @@ student:
 
 clean:
         rm -r student
-~                                                                                                                                                
-~    
+                                                                                                                                               
+    
