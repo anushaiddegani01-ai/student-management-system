@@ -13,6 +13,4 @@ void delete_all(sll **ptr)
 
     printf("All student records deleted successfully\n");
 }
-~                                                                                                                           
-~                                                                                                                           
-~           
+                                                                                                                                                                                                                                                            
